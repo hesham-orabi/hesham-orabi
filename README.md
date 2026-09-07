@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Full-Stack Developer | Team Lead | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hesham-oraby&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/hesham-oraby?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=hesham-orabi&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/hesham-orabi?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
 ---
