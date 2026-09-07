@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hesham Oraby</h1>
-<h3 align="center">🚀 Full-Stack Developer | Team Lead | Tech Enthusiast</h3>
+<h1 align="center">Hesham Oraby</h1>
+<h3 align="center">Full-Stack Developer | Team Lead | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hesham-orabi&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
