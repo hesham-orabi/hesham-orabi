@@ -83,8 +83,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hesham-oraby&show_icons=true&theme=default&hide_border=true" alt="Hesham's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hesham-oraby&hide_border=true" alt="Hesham's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hesham-orabi&show_icons=true&theme=default&hide_border=true" alt="Hesham's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hesham-orabi&hide_border=true" alt="Hesham's GitHub streak" height="165"/>
 </p>
 
 ---
